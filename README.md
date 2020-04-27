@@ -1,4 +1,4 @@
-# Login-Register Form
+# Social Media Blog Web app
 
 ## Description
-A form in which user can register or login.
+It's a socail media blog web application for a company, where users can register, login, view posts, create, update and delete posts or update their profile picture.
